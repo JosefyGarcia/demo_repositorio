@@ -10,4 +10,9 @@ y=0;
 codigo="";
 
 }
+
+public void mensaje(){
+	System.out.print("Hola");
+	
+}
 }
